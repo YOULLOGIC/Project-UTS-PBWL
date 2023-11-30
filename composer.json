@@ -1,0 +1,12 @@
+{
+    "name": "wahyu/uts",
+    "description": "Project UTS PBWL",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Wahyu Putra Prayuda",
+            "email": "wahyuputraprayuda03@gmail.com"
+        }
+    ],
+    "require": {}
+}

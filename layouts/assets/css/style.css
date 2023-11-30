@@ -1,0 +1,105 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+aside {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(241, 162, 142);
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: rgb(197, 39, 0);
+}
+
+.brand {
+    width: 80px;
+}
+
+.user {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+main {
+    margin-left: 210px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    padding: 10px 20px;
+    margin: 5px 0 5px 0;
+    display: block;
+    color: #000000;
+}
+
+nav a:hover {
+    background-color: rgb(158, 64, 245), 154, 199);
+}
+
+nav .icon {
+    width: 25px;
+    float: left;
+    padding-right: 10px;
+}
+
+.info {
+    background-color: #6a99e0;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+table {
+    align: center;
+    margin-left: 150px;
+    margin-top: 20px;
+    border: 1px solid #cccccc;
+    border-collapse: collapse;
+    width: 75%;
+}
+
+table th {
+    border: 1px solid #8f8b8b;
+    padding: 8px;
+    background-color: #d8dadf;
+}
+
+table td {
+    border: 1px solid #cccccc;
+    padding: 8px;
+}
+
+.btn {
+    background-color: rgb(216, 26, 26);
+    border-radius: 4px;
+    color: #000000;
+    padding: 5px;
+}
+
+.btn:hover {
+    background-color: #1e7ff5;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    padding: 5px 0 5px 1px;
+    background-color: #82b4ff;
+    width: 100%;
+    border-top: 1px solid #d8dadf;
+}
